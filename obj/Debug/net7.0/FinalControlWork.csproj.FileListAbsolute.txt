@@ -1,0 +1,15 @@
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/bin/Debug/net7.0/FinalControlWork
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/bin/Debug/net7.0/FinalControlWork.deps.json
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/bin/Debug/net7.0/FinalControlWork.runtimeconfig.json
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/bin/Debug/net7.0/FinalControlWork.dll
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/bin/Debug/net7.0/FinalControlWork.pdb
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/obj/Debug/net7.0/FinalControlWork.csproj.AssemblyReference.cache
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/obj/Debug/net7.0/FinalControlWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/obj/Debug/net7.0/FinalControlWork.AssemblyInfoInputs.cache
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/obj/Debug/net7.0/FinalControlWork.AssemblyInfo.cs
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/obj/Debug/net7.0/FinalControlWork.csproj.CoreCompileInputs.cache
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/obj/Debug/net7.0/FinalControlWork.dll
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/obj/Debug/net7.0/refint/FinalControlWork.dll
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/obj/Debug/net7.0/FinalControlWork.pdb
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/obj/Debug/net7.0/FinalControlWork.genruntimeconfig.cache
+/Users/Cosmatik/Desktop/FinalControlWork/FinalControlWork/obj/Debug/net7.0/ref/FinalControlWork.dll
